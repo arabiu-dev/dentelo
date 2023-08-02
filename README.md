@@ -4,7 +4,7 @@
 
 Dentelo is a fully responsive dental website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-<a href="https://codewithsadee.github.io/dentelo/"><strong>➥ Live Demo</strong></a>
+<a href="https://arabiu-dev.github.io/dentelo"><strong>➥ Live Demo</strong></a>
 
 </div>
 
